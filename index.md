@@ -1,4 +1,4 @@
-# Some Recent Work
+## Some Recent Work
 
 1. Really interesting paper on dynamics...
 
