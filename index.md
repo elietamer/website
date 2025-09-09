@@ -1,6 +1,6 @@
 ## Some Recent Work
 
-1. Really interesting paper on dynamics...
+1. Really interesting paper...
 
 You can use the [editor on GitHub](https://github.com/elietamer/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
